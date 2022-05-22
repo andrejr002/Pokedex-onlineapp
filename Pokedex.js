@@ -40,7 +40,8 @@ function buscandoCidades(city) {
   fetch(weatherEndpoint)
     .then(function (response) {
       if (!response.ok) {
-        throw new Error(`http error: status ${response.status}`);
+        throw new Error(`http error: status ${response.status}`); 
+        // se a requisição na barra de pesquisa não poder ser concluida, a mensagem de erro vai catch
       }
       return response.json();
     })
