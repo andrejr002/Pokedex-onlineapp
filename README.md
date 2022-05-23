@@ -1,7 +1,7 @@
-# Pokedex-onlineapp
+## Pokedex-onlineapp
 
 
-## tecnologias<h2> usadas : HTML , Css, Javascript, bootstrap, Font-awesome
+## Tecnologias usadas<h2>  : HTML , Css, Javascript, bootstrap, Font-awesome
 
 ## Lógica utiliza <h2>
 
