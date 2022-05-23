@@ -1,9 +1,9 @@
-## Pokedex-onlineapp
+## Pokedex-onlineapp<h1>
 
 
-## Tecnologias usadas<h2>  : HTML , Css, Javascript, bootstrap, Font-awesome
+## Tecnologias utilizadas:<h3>   HTML , Css, Javascript, bootstrap, Font-awesome
 
-## Lógica utiliza <h2>
+## Lógica utiliza <h3>
 
 Iniciei declarando a variável **var weatherconfig** para obter informações da api de temperatura e logo apois fiz a chamada das **querys** para que meus eventos javascritp tenham acesso ao html.
 
